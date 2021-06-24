@@ -1,0 +1,128 @@
+{
+    "code": 1,
+    "message": "success",
+    "data": {
+        "books": [
+            {
+                "id": 10001,
+                "level": 1,
+                "randid": "2021061800",
+                "userid": 1024,
+                "journal": "楊遠徵の日記本",
+                "introduce": "记录生活，记录……",
+                "publisher": [
+                    "杨远征",
+                    "杨远征"
+                ],
+                "thumbnail": {
+                    "src": "https://book.ssss.fun/1998032900/img/幻灯片1.PNG",
+                    "w": 160,
+                    "h": 220
+                },
+                "booktype": 1,
+                "updated": "1998-03-29",
+                "url": "https://book.ssss.fun/1998032900",
+                "wxburl": "https://book.ssss.fun/1998032900",
+                "exeurl": "",
+                "pdfurl": "https://file.ssss.fun",
+                "apkurl": "",
+                "iPhoneurl": "",
+                "ipadurl": "",
+                "macurl": "",
+                "views": 19980329,
+                "pagesize_h": 1000,
+                "pagesize_w": 1000
+            },
+            {
+                "id": 10002,
+                "level": 1,
+                "randid": "2021061800",
+                "userid": 1024,
+                "journal": "追求源于热爱",
+                "introduce": "杨远征的个人作品集【数码篇】。",
+                "publisher": [
+                    "杨远征",
+                    "杨远征"
+                ],
+                "thumbnail": {
+                    "src": "https://book.ssss.fun/2021061800/img/幻灯片1.PNG",
+                    "w": 160,
+                    "h": 220
+                },
+                "booktype": 1,
+                "updated": "2020-06-18",
+                "url": "https://book.ssss.fun/2021061800",
+                "wxburl": "https://book.ssss.fun/2021061800",
+                "exeurl": "",
+                "pdfurl": "https://file.ssss.fun",
+                "apkurl": "",
+                "iPhoneurl": "",
+                "ipadurl": "",
+                "macurl": "",
+                "views": 1024000,
+                "pagesize_h": 1000,
+                "pagesize_w": 1000
+            },
+            {
+                "id": 10003,
+                "level": 1,
+                "randid": "2021061800",
+                "userid": 1024,
+                "journal": "杨远征的个人作品集",
+                "introduce": "杨远征的个人作品集。",
+                "publisher": [
+                    "杨远征",
+                    "杨远征"
+                ],
+                "thumbnail": {
+                    "src": "https://book.ssss.fun/2021061800/img/幻灯片1.PNG",
+                    "w": 160,
+                    "h": 220
+                },
+                "booktype": 1,
+                "updated": "2020-06-18",
+                "url": "https://book.ssss.fun/2021061800",
+                "wxburl": "https://book.ssss.fun/2021061800",
+                "exeurl": "",
+                "pdfurl": "https://file.ssss.fun",
+                "apkurl": "",
+                "iPhoneurl": "",
+                "ipadurl": "",
+                "macurl": "",
+                "views": 1024000,
+                "pagesize_h": 1000,
+                "pagesize_w": 1000
+            },
+            {
+                "id": 10004,
+                "level": 1,
+                "randid": "2021061800",
+                "userid": 1024,
+                "journal": "杨远征的个人作品集",
+                "introduce": "杨远征的个人作品集。",
+                "publisher": [
+                    "杨远征",
+                    "杨远征"
+                ],
+                "thumbnail": {
+                    "src": "https://book.ssss.fun/2021061800/img/幻灯片1.PNG",
+                    "w": 160,
+                    "h": 220
+                },
+                "booktype": 1,
+                "updated": "2020-06-18",
+                "url": "https://book.ssss.fun/2021061800",
+                "wxburl": "https://book.ssss.fun/2021061800",
+                "exeurl": "",
+                "pdfurl": "https://file.ssss.fun",
+                "apkurl": "",
+                "iPhoneurl": "",
+                "ipadurl": "",
+                "macurl": "",
+                "views": 1024000,
+                "pagesize_h": 1000,
+                "pagesize_w": 1000
+            }
+        ]
+    }
+}
